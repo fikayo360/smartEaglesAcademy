@@ -26,7 +26,7 @@ const sports: Sport[] = [
   {
     name: "Swimming",
     tagline: "Water confidence, stroke technique and endurance.",
-    image: "./swimming.jpeg",
+    image: "https://cdn.punchng.com/wp-content/uploads/2026/09/30003323/Screenshot-2026-09-30-003256_1790724803.webp",
     ratio: "aspect-[3/4]",
   },
   {
@@ -38,7 +38,7 @@ const sports: Sport[] = [
   {
     name: "Gymnastics",
     tagline: "Strength, balance and body control.",
-    image: "./gym.jpeg",
+    image: "https://dailytrust.com/wp-content/uploads/2023/06/3667b0d9-de07-4ed7-b7d6-2cd5d688221d.jpg",
     ratio: "aspect-[4/5]",
   },
 ]

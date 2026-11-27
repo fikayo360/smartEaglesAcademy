@@ -3,7 +3,7 @@ import { ArrowUpRight } from "lucide-react"
 // TODO: replace with the academy's real profiles
 const socials = [
   { label: "Instagram", href: "https://www.instagram.com/aderintoazeez?knvt=MTZ6NTA0YTB6N2pkNw==" },
-  { label: "Facebook", href: "https://l.facebook.com/l.php?u=https%3A%2F%2Fchat.whatsapp.com%2FG6Ir3AP0RunD1B1iaRLME7%3Fmode%3Dgi_t%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETFYa2xPZWRlaTJvbXhJbmNTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHxzQbqGbMu1JPwOrkrFSmV9VbOKi-NVkkkGu20me7c_OVt0WYpCUhp7l4sbo_aem_yGy8HlTgWQGm-Zha45SnPg&h=AUB8UrhbEgsyEspOgjcYeazzE7DGhgQJvYJi1JlSgblFykCRGsZFM9wfuwCiaohOqM_JnokObjzlnuJE-3NOuzwDcuQkoVAEyZo7BjPIeHSvhCmdTh4WAVa4GESGLaaUdg" },
+  { label: "Facebook", href: "https://www.facebook.com/share/19t8X7uDue/"}
 ]
 
 // TODO: your own name and website
@@ -49,7 +49,7 @@ export function Footer() {
           href={DEVELOPER.href}
           target="_blank"
           rel="noopener noreferrer"
-          className="font-bold text-foreground underline-offset-4 hover:underline"
+          className="font-bold underline-offset-4 hover:underline text-blue-600 hover:text-blue-800 active:text-red-600"
         >
           {DEVELOPER.name}
         </a>

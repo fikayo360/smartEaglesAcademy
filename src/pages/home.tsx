@@ -48,10 +48,8 @@ export function Hero() {
         <div className="space-y-8 md:col-span-9 lg:col-span-7">
           <p className="text-2xl font-medium leading-snug sm:text-3xl lg:text-4xl">
             {/* TODO: replace with your friend's real vision statement */}
-            We are a football academy built on discipline, technique and
-            character. From first touch to international stage, we develop
-            young players on and off the pitch, giving every child in Lagos a
-            real pathway into the game.
+           We are a multi-sport academy built on discipline, technique and character. From first steps to international stage, we develop young athletes on and off the field across Football, 
+           Basketball, Tennis, Swimming and Gymnastics — giving every child in Lagos a real pathway in sport.      
           </p>
           <Button size="lg" className="group rounded-full" asChild>
             <a href="#contact">
